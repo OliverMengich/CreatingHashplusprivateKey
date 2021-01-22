@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSign", "HashSign\HashSign.csproj", "{FCA48A9C-E32B-45CA-B17E-C351CBE6A7C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA48A9C-E32B-45CA-B17E-C351CBE6A7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA48A9C-E32B-45CA-B17E-C351CBE6A7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA48A9C-E32B-45CA-B17E-C351CBE6A7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA48A9C-E32B-45CA-B17E-C351CBE6A7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67D236A-E6ED-4965-AD37-07CF69F3810C}
+	EndGlobalSection
+EndGlobal
